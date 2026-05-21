@@ -80,7 +80,7 @@ These are not random labels. Each class represents a possible silent communicati
 
 ## 🧪 Dataset: “I Am the Data”
 
-![Custom Gesture Dataset](visuals/keypoint_grid_1.png)
+![Custom Gesture Dataset](visuals/sample_gesture_keypoints_grid.png)
 
 This project uses a **custom-recorded gesture dataset**.
 
