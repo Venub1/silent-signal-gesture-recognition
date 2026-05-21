@@ -103,6 +103,7 @@ This makes the model focus on **body structure and motion**, instead of being di
 ## 👁️ What the System Sees
 
 The model does not simply look at raw pixels.
+[🎬 What my system sees ?](https://drive.google.com/file/d/1G0RkGnywEDg9yUti-QQBXjIDdFe2ySCV/view?usp=drive_link)
 
 The camera captures the person, then MediaPipe extracts meaningful landmarks:
 
