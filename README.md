@@ -232,7 +232,7 @@ This is important because in emergency-style AI, the system should not blindly t
 
 ## 🖥️ Dashboard Prototype
 
-![Dashboard Screenshot](visuals/Venudashboard.png)
+![Dashboard Screenshot](visuals/Prototype.png)
 
 The dashboard turns the model from a notebook experiment into a usable monitoring prototype.
 
