@@ -383,7 +383,7 @@ python src/dashboard_app.py
 
 ## 🎥 Demo
 
-![Demo Preview](visuals/dashboard_screenshot.png)
+
 
 The demo shows the full pipeline:
 
@@ -399,7 +399,7 @@ Dashboard alert output
 
 If the demo video is included, it can be found here:
 
-[🎬 Watch Demo Video](demo/silent_signal_demo.mp4)
+[🎬 Watch Demo Video](https://drive.google.com/file/d/1rFBFuzG4Rl9pnNpvIbITo-irwLSQ-MLs/view?usp=drive_link)
 
 ---
 
