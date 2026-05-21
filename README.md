@@ -164,7 +164,7 @@ The BiLSTM helps the system learn movement patterns across a full sequence, not 
 
 ## 📊 Results: Model Performance
 
-![Model Performance](results/model_performance.png)
+![Model Performance](results/validation_test_accuracy_summary.png)
 
 The model was evaluated using validation accuracy, test accuracy, F1-score, and confusion-based error analysis.
 
