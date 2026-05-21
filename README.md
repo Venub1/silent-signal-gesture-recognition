@@ -520,7 +520,7 @@ Project Theme:
 
 The project presentation is available in the `docs/` folder:
 
-[📑 Silent Signal Presentation](docs/Bandi_Silent_Signal_Presentation.pptx)
+[📑 Silent Signal Presentation](Bandi_Silent_Signal_Presentation.pptx)
 
 ---
 
