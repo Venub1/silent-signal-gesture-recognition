@@ -186,7 +186,7 @@ Recorded Data → Extracted Keypoints → Trained Temporal Model → Tested Resu
 
 ## 📈 F1 Score by Class
 
-![F1 Score by Class](results/f1_score_by_class.png)
+![F1 Score by Class](results/f1_score_ranking.png)
 
 | Class | Approx. F1 Score | Stability |
 |---|---:|---|
