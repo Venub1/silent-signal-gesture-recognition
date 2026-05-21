@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary/cache files
+*.tmp
+*.cache
+
+# Large raw dataset folders
+raw_videos/
+dataset/raw_videos/
+
+# Model checkpoints
+*.ckpt
