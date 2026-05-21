@@ -205,6 +205,8 @@ That is why this project also looks at class-level stability using:
 - F1-score
 - Confusion matrix
 - Detection behavior
+- 
+![PERCLASS](results/precision_recall_f1_by_action.png)
 
 ![Confusion Matrix](results/confusion_matrix.png)
 
