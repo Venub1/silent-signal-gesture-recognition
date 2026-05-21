@@ -102,9 +102,6 @@ This makes the model focus on **body structure and motion**, instead of being di
 
 ## 👁️ What the System Sees
 
-![MediaPipe Keypoints](<img width="614" height="360" alt="image" src="https://github.com/user-attachments/assets/b987b186-cc44-4b78-92d9-2f6f498953f1" />
-)
-
 The model does not simply look at raw pixels.
 
 The camera captures the person, then MediaPipe extracts meaningful landmarks:
@@ -133,9 +130,6 @@ A gesture is not a single image.
 A gesture is a **motion pattern over time**.
 
 That is why this project uses a **Motion BiLSTM** model.
-
-![Model Architecture](<img width="1366" height="550" alt="image" src="https://github.com/user-attachments/assets/aea0fd9e-9d52-4331-9729-18714f304831" />
-)
 
 ### Model Pipeline
 
