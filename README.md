@@ -188,17 +188,6 @@ Recorded Data → Extracted Keypoints → Trained Temporal Model → Tested Resu
 
 ![F1 Score by Class](results/f1_score_ranking.png)
 
-| Class | Approx. F1 Score | Stability |
-|---|---:|---|
-| Danger | 91% | Strong |
-| Help | 88% | Strong |
-| Abort | 84% | Strong |
-| Need Backup | 80% | Strong |
-| Watched | 74% | Moderate |
-| Proceed | 68% | Moderate |
-| Safe | 60% | Needs improvement |
-| Stay | 55% | Needs improvement |
-| No Gesture | 48% | Needs improvement |
 
 The stronger classes had clearer motion patterns. The weaker classes were more subtle or visually similar.
 
@@ -242,7 +231,7 @@ This is important because in emergency-style AI, the system should not blindly t
 
 ## 🖥️ Dashboard Prototype
 
-![Dashboard Screenshot](visuals/dashboard_screenshot.png)
+![Dashboard Screenshot](visuals/Dashboard ss.png)
 
 The dashboard turns the model from a notebook experiment into a usable monitoring prototype.
 
