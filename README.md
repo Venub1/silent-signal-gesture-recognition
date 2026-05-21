@@ -231,7 +231,7 @@ This is important because in emergency-style AI, the system should not blindly t
 
 ## 🖥️ Dashboard Prototype
 
-![Dashboard Screenshot](visuals/Dashboard ss.png)
+![Dashboard Screenshot](visuals/Dashboardss.png)
 
 The dashboard turns the model from a notebook experiment into a usable monitoring prototype.
 
